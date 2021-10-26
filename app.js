@@ -60,6 +60,7 @@ const userRoutes = require("./routes/users");
 app.use(indexRoutes);
 app.use(userRoutes);
 
+// listening server
 const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, console.log(`server started on port ${PORT}`));
