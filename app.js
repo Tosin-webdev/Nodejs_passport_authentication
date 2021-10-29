@@ -54,7 +54,6 @@ app.use((req, res, next) => {
 
 // Routes
 const indexRoutes = require("./routes/index");
-
 const userRoutes = require("./routes/users");
 
 app.use(indexRoutes);
