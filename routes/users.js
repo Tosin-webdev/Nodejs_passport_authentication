@@ -10,7 +10,6 @@ router.get("/", (req, res) => {
   console.log(req.url);
   console.log("aaa");
   res.render("register");
-  // res.send("jjj");
 });
 
 router.post("/", (req, res) => {
