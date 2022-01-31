@@ -8,5 +8,4 @@ GET /
 POST /
 
 POST /logout
-
 ```
