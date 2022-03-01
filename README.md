@@ -7,5 +7,8 @@ GET /
 
 POST /
 
+
+POST /login
+
 POST /logout
 ```
