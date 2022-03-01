@@ -5,8 +5,9 @@
 
 GET /
 
-POST /
+GET /dashboard
 
+POST /
 
 POST /login
 
